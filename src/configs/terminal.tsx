@@ -13,9 +13,10 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi! This is Xiaohan Zou, now a Computer Science master's student
-              at Boston University. Previously, I received my bachelor's degree
-              in Software Engineering at Tongji University.
+              Hi! This is Tanishq Agarwal, now a Computer Science undergraduate
+              student at Jaypee University of Engineering & Technology, Guna.
+              Previously, I received my senior secondary degree at Tender Hearts
+              School, Lucknow.
             </div>
           </div>
         )
@@ -24,13 +25,14 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content: "Machine Learning / Computer Vision / Vision-Language Learning"
+        content: "Go Programming / Dev-Ops / Cloud Networking"
       },
       {
         id: "about-who-cares",
         title: "who-cares.txt",
         type: "file",
-        content: "I'm applying for a Ph.D. starting from Fall 2023 lol."
+        content:
+          "I'm applying for the CCNA certification this year in September,2k23."
       },
       {
         id: "about-contact",
@@ -42,65 +44,44 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:047pegasus@gmail.com"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                047pegasus@gmail.com
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/047pegasus"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
-              </a>
-            </li>
-            <li>
-              <a
-                className="text-blue-300"
-                href="https://scholar.google.com/citations?user=RuW6xgMAAAAJ"
-                target="_blank"
-                rel="noreferrer"
-              >
-                Google Scholar
+                @047pegasus
               </a>
             </li>
             <li>
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/tanishq-agarwal047"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                tanishq-agarwal047
               </a>
             </li>
             <li>
               Personal Website:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.io"
+                href="https://047pegasus.pro"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.io
-              </a>
-            </li>
-            <li>
-              知乎:{" "}
-              <a
-                className="text-blue-300"
-                href="https://www.zhihu.com/people/chao-neng-gui-su"
-                target="_blank"
-                rel="noreferrer"
-              >
-                @西伯利亚大恶龙
+                https://047pegasus.pro
               </a>
             </li>
           </ul>

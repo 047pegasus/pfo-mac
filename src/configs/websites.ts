@@ -7,39 +7,33 @@ const websites: WebsitesData = {
       {
         id: "my-blog",
         title: "Website",
-        img: "https://blog.zxh.io/img/avatar.jpg",
-        link: "https://zxh.io/",
+        img: "https://avatars.githubusercontent.com/u/68327491?s=400&u=dd89432f6c370932e44f223925a9e3a1feb03c42&v=4",
+        link: "https://047pegasus.pro",
         inner: true
       },
       {
         id: "my-github",
         title: "Github",
         img: "img/sites/github.svg",
-        link: "https://github.com/Renovamen"
+        link: "https://github.com/047pegasus"
       },
       {
         id: "my-linkedin",
         title: "Linkedin",
         img: "img/sites/linkedin.svg",
-        link: "https://www.linkedin.com/in/xiaohan-zou"
-      },
-      {
-        id: "my-zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/people/chao-neng-gui-su"
+        link: "https://www.linkedin.com/in/tanishq-agarwal047"
       },
       {
         id: "my-facebook",
         title: "Facebook",
         img: "img/sites/facebook.svg",
-        link: "https://www.facebook.com/renovamen.zou"
+        link: "https://www.facebook.com/"
       },
       {
         id: "my-email",
         title: "Email",
         img: "img/sites/gmail.svg",
-        link: "mailto:renovamenzxh@gmail.com"
+        link: "mailto:047pegasus@gmail.com"
       }
     ]
   },
@@ -51,18 +45,6 @@ const websites: WebsitesData = {
         title: "Github",
         img: "img/sites/github.svg",
         link: "https://github.com/"
-      },
-      {
-        id: "zhihu",
-        title: "知乎",
-        img: "img/sites/zhihu.jpeg",
-        link: "https://www.zhihu.com/"
-      },
-      {
-        id: "bilibili",
-        title: "Bilibili",
-        img: "img/sites/bilibili.svg",
-        link: "https://www.bilibili.com/"
       },
       {
         id: "pinterest",
@@ -77,10 +59,10 @@ const websites: WebsitesData = {
         link: "https://dribbble.com/"
       },
       {
-        id: "arxiv",
-        title: "arXiv",
+        id: "juet",
+        title: "JUET",
         img: "img/sites/arxiv.png",
-        link: "https://arxiv.org/"
+        link: "https://www.juet.ac.in/"
       },
       {
         id: "gmail",
@@ -95,10 +77,10 @@ const websites: WebsitesData = {
         link: "https://leetcode.com/"
       },
       {
-        id: "v2ex",
-        title: "V2EX",
-        img: "https://www.v2ex.com/apple-touch-icon.png",
-        link: "https://www.v2ex.com/"
+        id: "go",
+        title: "Go Programming",
+        img: "https://go.dev/images/go-logo-white.svg",
+        link: "https://go.dev/"
       },
       {
         id: "reddit",
