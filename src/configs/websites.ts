@@ -27,7 +27,7 @@ const websites: WebsitesData = {
         id: "my-facebook",
         title: "Facebook",
         img: "img/sites/facebook.svg",
-        link: "https://www.facebook.com/"
+        link: "https://www.facebook.com/047pegasus"
       },
       {
         id: "my-email",

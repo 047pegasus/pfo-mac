@@ -39,13 +39,12 @@ const bear: BearData[] = [
         title: "XeroMail",
         file: "https://raw.githubusercontent.com/047pegasus/GalacticHacks/master/README.md",
         icon: "i-heroicons-solid:fire",
-        excerpt:
-          "A CLI Tool written in Go to verfiy and validate email address...",
+        excerpt: "A CLI Tool written in Go to verfiy email address...",
         link: "https://github.com/047pegasus/GalacticHacks"
       },
       {
         id: "webattendance",
-        title: "Web Attendance System",
+        title: "Attendance System",
         file: "https://raw.githubusercontent.com/047pegasus/AttendanceManagementSystem/master/README.md",
         icon: "i-ri:gamepad-line",
         excerpt: "Web Attendance App build on Firebase and Firestore...",
