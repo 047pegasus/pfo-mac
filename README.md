@@ -1,4 +1,4 @@
-# playground-macos
+# pfo-mac
 
 My portfolio website simulating macOS's GUI: https://047pegasus.pro
 
